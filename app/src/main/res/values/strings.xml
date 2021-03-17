@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoffeeMealReused</string>
+    <string name="next">다음</string>
+    <string name="skip">건너뛰기</string>
+    <string name="start">시작</string>
+
+    <string name="page1_desc1">어딜가나 사람들은 커피를 마시고, 심지어 집에서도 마시죠.</string>
+    <string name="page1_desc2">그런데 이 커피가 환경오염의 주범인 것을 알고 계셨나요?</string>
+    <string name="page2_desc1">커피의 원재료인 원두에서는</string>
+    <string name="page2_desc2">커피 한잔 당 0.2% 밖에 추출하지 못한다고 해요.</string>
+    <string name="page2_desc3">나머지 99.8%는 모두 찌꺼기가 되는거죠!</string>
+    <string name="page3_desc1">카페에서는 업체가 찌꺼기를 수거를 해가지만,</string>
+    <string name="page3_desc2">가정에서는 일반 쓰레기로 버려진다고 해요.</string>
+    <string name="page3_desc3">머라고 적어야할지 모르겠삼</string>
+
+</resources>
